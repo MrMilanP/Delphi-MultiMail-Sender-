@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.375,=C:\Users\Zorica\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.743,=C:\Users\Zorica\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.331,C:\Users\Zorica\Documents\Embarcadero\Studio\Projects\MultiMailSender\Unit1.pas=C:\Users\Zorica\Documents\Embarcadero\Studio\Projects\MultiMailSender\U_Attach.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.982,C:\Users\Zorica\Documents\Embarcadero\Studio\Projects\MultiMailSender\Unit1.pas=C:\Users\Zorica\Documents\Embarcadero\Studio\Projects\MultiMailSender\U_Sender.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.738,=C:\Users\Zorica\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.924,C:\Users\Zorica\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Zorica\Documents\Embarcadero\Studio\Projects\MultiMailSender\U_MultiMail.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.861,=C:\Users\Zorica\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.062,=C:\Users\Zorica\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.922,C:\Users\Zorica\Documents\Embarcadero\Studio\Projects\MultiMailSender\Unit1.pas=C:\Users\Zorica\Documents\Embarcadero\Studio\Projects\MultiMailSender\U_Subject.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.641,=C:\Users\Zorica\Documents\Embarcadero\Studio\Projects\MultiMailSender\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.055,C:\Users\Zorica\Documents\Embarcadero\Studio\Projects\MultiMailSender\Unit1.pas=C:\Users\Zorica\Documents\Embarcadero\Studio\Projects\MultiMailSender\U_ListSMTP.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.697,C:\Users\Zorica\Documents\Embarcadero\Studio\Projects\MultiMailSender\Unit1.pas=C:\Users\Zorica\Documents\Embarcadero\Studio\Projects\MultiMailSender\U_ListMail.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.514,=C:\Users\Zorica\Documents\Embarcadero\Studio\Projects\MultiMailSender\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.532,=C:\Users\Zorica\Documents\Embarcadero\Studio\Projects\MultiMailSender\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.549,=C:\Users\Zorica\Documents\Embarcadero\Studio\Projects\MultiMailSender\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.325,=C:\Users\Zorica\Documents\Embarcadero\Studio\Projects\MultiMailSender\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.133,=C:\Users\Zorica\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.982,C:\Users\Zorica\Documents\Embarcadero\Studio\Projects\MultiMailSender\Unit1.dfm=C:\Users\Zorica\Documents\Embarcadero\Studio\Projects\MultiMailSender\U_Sender.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.697,C:\Users\Zorica\Documents\Embarcadero\Studio\Projects\MultiMailSender\Unit1.dfm=C:\Users\Zorica\Documents\Embarcadero\Studio\Projects\MultiMailSender\U_ListMail.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.922,C:\Users\Zorica\Documents\Embarcadero\Studio\Projects\MultiMailSender\Unit1.dfm=C:\Users\Zorica\Documents\Embarcadero\Studio\Projects\MultiMailSender\U_Subject.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.055,C:\Users\Zorica\Documents\Embarcadero\Studio\Projects\MultiMailSender\Unit1.dfm=C:\Users\Zorica\Documents\Embarcadero\Studio\Projects\MultiMailSender\U_ListSMTP.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.417,C:\Users\Zorica\Documents\Embarcadero\Studio\Projects\MultiMailSender\Unit2.dfm=C:\Users\Zorica\Documents\Embarcadero\Studio\Projects\MultiMailSender\U_Name.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.924,C:\Users\Zorica\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Zorica\Documents\Embarcadero\Studio\Projects\MultiMailSender\U_MultiMail.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.471,C:\Users\Zorica\Documents\Embarcadero\Studio\Projects\MultiMailSender\Unit2.dfm=C:\Users\Zorica\Documents\Embarcadero\Studio\Projects\MultiMailSender\U_Statistics.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.337,C:\Users\Zorica\Documents\Embarcadero\Studio\Projects\MultiMailSender\Unit2.dfm=C:\Users\Zorica\Documents\Embarcadero\Studio\Projects\MultiMailSender\U_HTML_Editor.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.789,=C:\Users\Zorica\Documents\Embarcadero\Studio\Projects\MultiMailSender\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.417,C:\Users\Zorica\Documents\Embarcadero\Studio\Projects\MultiMailSender\Unit2.pas=C:\Users\Zorica\Documents\Embarcadero\Studio\Projects\MultiMailSender\U_Name.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.948,=C:\Users\Zorica\Documents\Embarcadero\Studio\Projects\MultiMailSender\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.958,=C:\Users\Zorica\Documents\Embarcadero\Studio\Projects\MultiMailSender\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.184,C:\Users\Zorica\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Zorica\Documents\Embarcadero\Studio\Projects\MultiMailSender\MultiMailSender.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.331,C:\Users\Zorica\Documents\Embarcadero\Studio\Projects\MultiMailSender\Unit1.dfm=C:\Users\Zorica\Documents\Embarcadero\Studio\Projects\MultiMailSender\U_Attach.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.471,C:\Users\Zorica\Documents\Embarcadero\Studio\Projects\MultiMailSender\Unit2.pas=C:\Users\Zorica\Documents\Embarcadero\Studio\Projects\MultiMailSender\U_Statistics.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.337,C:\Users\Zorica\Documents\Embarcadero\Studio\Projects\MultiMailSender\Unit2.pas=C:\Users\Zorica\Documents\Embarcadero\Studio\Projects\MultiMailSender\U_HTML_Editor.pas</Transaction>
+  </Transactions>
+</BorlandProject>
